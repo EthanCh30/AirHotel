@@ -14,16 +14,7 @@ const fs = require('fs');
 const salt = bcrypt.genSaltSync(10);
 const secret = 'asdfe45we45w345wegw345werjktjwertkj';
 
-//app.use(cors({credentials:true,origin:'http://localhost:3000'}));
-app.use(cors (
-{
-//origin: ["https://blog-mern-api3.vercel.app"],
-origin: ["https://blog-mern-client.vercel.app/"],
-methods: ["POST", "GET"],
-credentials: true
-}
-));
-
+app.use(cors({credentials:true,origin:'http://localhost:3000'}));
 
 app.use(express.json());
 app.use(cookieParser());
