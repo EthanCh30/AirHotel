@@ -1,6 +1,6 @@
 
 import { SafeUser } from "@/app/types";
-// import Categories from "./Categories";
+import Categories from "./Categories";
 import { User } from "@prisma/client";
 import Container from "../Container";
 import Logo from "./Logo";
@@ -40,7 +40,7 @@ const Navbar: React.FC<NavbarProps> = ({
         </div>
       </Container>
     </div>
-    {/* <Categories /> */}
+    <Categories />
   </div>
   );
 }
