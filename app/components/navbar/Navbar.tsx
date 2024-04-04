@@ -1,12 +1,10 @@
-
 import { SafeUser } from "@/app/types";
+
 import Categories from "./Categories";
-import { User } from "@prisma/client";
 import Container from "../Container";
 import Logo from "./Logo";
 import Search from "./Search";
 import UserMenu from "./UserMenu";
-
 
 interface NavbarProps {
   currentUser?: SafeUser | null;
