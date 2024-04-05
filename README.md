@@ -1,6 +1,6 @@
 # Project Description
 
-A fullstack powerful and scalable Netflix clone  application, using React, Tailwind, Prisma, MongoDB, and NextAuth.
+An Airbnb clone with seamless navigation and user experience using React, Tailwind, Prisma, MongoDB, and NextAuth.
 
 **Test account**
 
@@ -12,9 +12,11 @@ Password: test
 
 Here's a glimpse of the Website, highlighting its features and aesthetics.
 
-![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/Spotify1.png)
+![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/airbnb1.png)
 
-![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/Spotify2.png)
+##### Reservation function:
+
+![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/airbnb2.png)
 
 Main view of the Website
 
@@ -22,12 +24,12 @@ Main view of the Website
 
 This project showcases the following features:
 
-- full authentication
-- social login (Google and Github)
-- listing creation and management
-- favoriting
-- reservation functionality
-- and loading various server components with specific logic controls.
+- Full authentication
+- Social login (Google and Github)
+- Listing creation and management
+- Favoriting
+- Reservation functionality
+- Loading various server components with specific logic controls.
 
 
 
@@ -82,7 +84,7 @@ Contributions to this project are always welcome. Here's how you can help enhanc
 Start by forking the project repository, then clone your fork using:
 
 ```
-git clone https://github.com/EthanCh30/Spotify-Clone.git
+git clone https://github.com/EthanCh30/Airbnb-Clone.git
 ```
 
 ### Create a New Branch
