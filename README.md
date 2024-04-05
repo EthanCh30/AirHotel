@@ -1,6 +1,6 @@
 # Project Description
 
-An Airbnb clone with seamless navigation and user experience using React, Tailwind, Prisma, MongoDB, and NextAuth.
+A full-stack Airbnb clone application built with React, Tailwind, Prisma, MongoDB, and NextAuth. Its features include full authentication, social login (Google and Github), listing creation and management, favoriting, reservation functionality, as well as loading various server components with specific logic controls.
 
 **Test account**
 
