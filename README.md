@@ -12,11 +12,8 @@ Password: test
 
 Here's a glimpse of the Website, highlighting its features and aesthetics.
 
-![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/airbnb1.png)
+![Image text](https://github.com/EthanCh30/img-store/blob/master/Small-Image/AirHotel.png)
 
-##### Reservation function:
-
-![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/airbnb2.png)
 
 Main view of the Website
 
