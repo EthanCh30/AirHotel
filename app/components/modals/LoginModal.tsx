@@ -70,8 +70,8 @@ const LoginModal = () => {
   const bodyContent = (
     <div className="flex flex-col gap-4">
       <Heading
-        title="Welcome back"
-        subtitle="Login to your account!"
+        title="Test Account is below"
+        subtitle="Email: test@gmail.com  Password: test"
       />
       <Input
         id="email"
